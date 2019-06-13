@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#author pnaithani
+
 #postman installation
 snap install postman 
 
